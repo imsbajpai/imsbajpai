@@ -1,6 +1,6 @@
 [![MasterHead](https://camo.githubusercontent.com/b408aa0f3fb2b1823866f37d2c347675e6e0bad2bbcb712728f34153dfe62863/68747470733a2f2f636f64696e672e626c6f672f696d672f6163636f756e742d62616e6e65722e737667)](https://www.shreyanshbajpai.engineer)
 <h1 align="center">Hi 👋, I'm Shreyansh Bajpai</h1>
-<h3 align="center">A Passionate Software Engineer India from India</h3>
+<h3 align="center">A Passionate Software Engineer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/a4c584bce1c41271485d28f92aaf9f581b3c88b68ca723b6edfd58b4ba988c2b/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313138373833362f73637265656e73686f74732f363533393432392f70726f6772616d65722e676966">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imsbajpai&label=Profile%20views&color=0e75b6&style=flat" alt="imsbajpai" /> </p>
