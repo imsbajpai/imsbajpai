@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on [Ayodhya Tourism](https://www.ayodhyatourisms.com)
 
-- 💬 Ask me about **React Development, FullStack Development, Software Development**
+- 💬 Ask me about **React Development, FullStack Development, Software Development, WordPress Website, SocialMedia Marketing, Google Ads,**
 
 - 📫 How to reach me **shreyanshbajpaiofficial@gmail.com**
 
